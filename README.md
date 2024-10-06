@@ -22,7 +22,7 @@
 
 **Development Tools**
 
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vsc&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ![leandro-nnogueira's Stats](https://github-readme-stats.vercel.app/api?username=leandro-nnogueira&theme=dark&show_icons=true&hide_border=true&count_private=true) </br>
