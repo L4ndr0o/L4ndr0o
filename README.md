@@ -1,9 +1,8 @@
-![](https://visitcount.itsvg.in/api?id=leandro-nnogueira&icon=0&color=0)
-
 ## About Me
 
 - 🎓 Studying Computer Engineering at Centro Universitário Salesiano (UNISAL).
 - 🌱 Learning more about backend development with Spring Boot.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-nnogueira/)
 
 ## My Skills
 
@@ -24,10 +23,3 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-
-![leandro-nnogueira's Stats](https://github-readme-stats.vercel.app/api?username=leandro-nnogueira&theme=dark&show_icons=true&hide_border=true&count_private=true) </br>
-![leandro-nnogueira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-nnogueira&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-## Where to Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-nnogueira/)
