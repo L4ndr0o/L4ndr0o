@@ -18,18 +18,14 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Development Tools**
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br/>
-
-<a href="https://github.com/leandro-nnogueira" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-nnogueira&theme=dracula&show_icons=true" />
-</a>
+![leandro-nnogueira's Stats](https://github-readme-stats.vercel.app/api?username=leandro-nnogueira&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![leandro-nnogueira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-nnogueira&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Where to Find Me
 
