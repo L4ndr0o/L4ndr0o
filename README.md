@@ -3,8 +3,7 @@
 - 🎓 Studying Computer Engineering at Centro Universitário Salesiano (UNISAL).
 - 🌱 Learning more about backend development with Spring Boot.
 
-</br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</br>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## My Skills
 
