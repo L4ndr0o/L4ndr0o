@@ -1,17 +1,11 @@
-# L4ndr0o
+## About Me
 
-![](https://komarev.com/ghpvc/?username=L4ndr0o&color=006bed)
+- 🎓 Studying Computer Engineering at Centro Universitário Salesiano (UNISAL).
+- 🌱 Learning more about backend development with Spring Boot.
 
-## Sobre mim
+## My Skills
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
-## Minhas Skills
-
-**Aplicações e dados**
+**Applications and Data**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,7 +14,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-**Utilidades**
+**Utilities**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -30,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
@@ -40,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L4ndr0o&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-nnogueira/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/leandro-nnogueira/))
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/leandro-nnogueira/)
